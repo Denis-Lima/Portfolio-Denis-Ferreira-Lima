@@ -24,20 +24,22 @@ Também foi adicionado ao produto uma opção de realizar um feedback através d
 
 As tecnologias adotadas para a solução foram as seguintes:  
 * <img src="https://appinventor.mit.edu/images/logo.png" alt="Logo do MIT AppInventor" width="200" /> [MIT App Inventor](https://appinventor.mit.edu/), uma ferramenta desenvolvida pela Google e atualmente mantida pelo MIT, para confecção do aplicativo, que possui uma interface amigável para pessoas com pouco conhecimento de programação. O App Inventor é uma ferramenta para construção de aplicativos por meio de blocos de programação, tanto na parte lógica quanto na parte visual.  
-<br/>
+
 * <img src="https://www.gstatic.com/devrel-devsite/prod/v509a5f4800978e3ce5a1a5f2c1483bd166c25f20fdb759fe97f6131b7e9f1f00/firebase/images/lockup.png" alt="Logo do Firebase" width="200" /> [Firebase Realtime Database](https://firebase.google.com/products/realtime-database?gclsrc=aw.ds&gclid=CjwKCAjw7fuJBhBdEiwA2lLMYcBC2UdWCsUTEdepZcIPR9r3gmOKo94uHC1fBV31fnwWsBQa1INL4xoCJ9UQAvD_BwE), um banco de dados NoSQL hospedado na nuvem, utilizado para armazenar as avaliações dos usuários (1 à 5 estrelas), via Wi-Fi.  
-<br/>
+
 * <img src="https://cdn.arduino.cc/header-footer/prod/assets/headerLogo-arduino.svg" alt="Logo do Arduino" width="200" /> [Arduino IDE](https://www.arduino.cc/en/software), para a criação da lógica que acompanha o hardware.  
-<br/>
+
 * <img src="https://cdn.shopify.com/s/files/1/0438/4735/2471/products/A000066_03.front_763x573.jpg?v=1629815860" alt="Imagem do Arduino Uno Rev3" width="200" /> [Arduino Uno Rev3](https://store.arduino.cc/products/arduino-uno-rev3/), que é uma placa com um microcontrolador, que ficará responsável pelo controle das peças físicas (LED's e cooler), acompanhado do script criado junto da Arduino IDE.  
+
 * <img src="https://s3-sa-east-1.amazonaws.com/multilogica-files/Modulo_Bluetooth_HC-05_M.jpg" alt="Imagem do módulo Bluetooth" width="200" /> Módulo Bluetooth HC05, para integração entre o equipamento físico (hardware) e o aplicativo. Ideal para comunicação sem fio simples e de média distância. Além de um sensor de umidade e temperatura DHT11 para automação do cooler, resistores e jumpers para conexão eletrônica entre os componentes, LED RGB e um cooler.  
-<br/>
+
 * <img src="https://www.alura.com.br/artigos/assets/formacao-linguagem-c-plus-plus/img-01.png" alt="Logo do C++" width="200" /> Linguagem de programação C++, utilizada para criar a lógica do código fonte que acompanha o Arduino.  
 <br/>
-<figure>
+<p align="center">
 	<img src="/img/Arquitetura.jpeg" alt="Arquitetura da aplicação">
-	<figcaption>Arquitetura da aplicação</figcaption>
-</figure>
+	<p align="center"><strong>Arquitetura da aplicação</strong></p>
+</p>
+
 
 ### Contribuições pessoais
 
@@ -49,7 +51,11 @@ Também contribui com a montagem física do projeto, onde realizei o processo de
 ### Aprendizados Efetivos HS
 
 Integração de módulo Bluetooth com software: Sei fazer com ajuda.  
-Programação em microinformática: Sei fazer com ajuda.  
+Programação em microinformática: Sei fazer com autonomia.  
 Construção de aplicativo usando App Inventor: Sei fazer com autonomia.  
-Contrução de circuitos com arduino: Sei fazer com ajuda.
-Controle de versão com Git e Github: Sei fazer com ajuda.
+Contrução de circuitos com arduino: Sei fazer com ajuda.  
+Controle de versão com Git e Github: Sei fazer com ajuda.  
+Integrações com Firebase: Sei fazer com ajuda  
+Documentação do projeto: Sei fazer com ajuda  
+Desenvolvimento por programação em blocos: Sei fazer com autonomia
+
