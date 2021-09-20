@@ -59,3 +59,47 @@ Integrações com Firebase: Sei fazer com ajuda
 Documentação do projeto: Sei fazer com ajuda  
 Desenvolvimento por programação em blocos: Sei fazer com autonomia
 
+##
+
+## Projeto 2: 2020-1
+
+### Parceiro Acadêmico
+
+O [SPC Brasil](https://www.spcbrasil.org.br/) está junto com os brasileiros há mais de 60 anos, prestando serviços especializados a toda a sociedade. Oferecem soluções aos consumidores e empresários com o objetivo de facilitar a realização de negócios.  
+Mais do que auxiliar as empresas na concessão de crédito, o SPC Brasil apoia os processos de tomada de decisão com informações, inteligência, soluções de negócio e identidade digital.  
+
+<p align="center">
+	<img src="/img/Previa.gif" alt="Prévia da solução">
+	<p align="center"><strong>Prévia da solução</strong></p>
+</p>
+
+### Visão do Projeto
+
+Com a mudança do modelo de operação do Cadastro Positivo, surgiu a necessidade de realizar uma gestão da informação mais eficaz para garantir a qualidade, uso adequado e gerar valor através dos dados.  
+A partir desta necessidade, surgiu este projeto, denominado AlgoPositivo (Algoritmo Positivo) que tem o objetivo de analisar os dados pagamentos dos clientes de forma anônima, respeitando a LGPD. A partir destes dados, o programa irá gerar informações e indicadores de negócios, que avaliará os clientes com base nesse perfil de pagamentos traçado. Os indicadores criados poderão ser utilizados para auxiliar a tomada de decisões de oferecer ou não produtos e serviços para determinado público, além de ajudar a analisar a criação de novos produtos com base na região dos clientes.
+
+#### <a href="https://github.com/Denis-Lima/PI_ADS_2Sem" target="_blank"><img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" alt="Logo do Python" width="40" />AlgoPositivo</a>
+
+### Tecnologias adotadas na solução
+
+As tecnologias adotadas para a solução foram as seguintes:  
+* <img src="https://www.python.org/static/img/python-logo.png" alt="Logo do Python" width="200" /> [Python](https://www.python.org/), uma linguagem de programação simples, intuitiva e de fácil aprendizado, escolhida pela equipe para que o foco da solução seja a geração dos indicadores de negócios.  
+
+* <img src="https://www.sqlite.org/images/sqlite370_banner.gif" alt="Logo do SQLite3" width="200" /> [SQLite3](https://www.sqlite.org/index.html), um banco
+de dados relacional independente, por conta de sua leveza e velocidade, já que o projeto não necessitaria de algo muito mais robusto, uma vez que serviria apenas para guardar os endereços de emails que seriam enviados.  
+* Para o envio de email foi usado a biblioteca embutida no Python chamada smtplib, simples de configurar e utilizar.  
+
+<br/>
+<p align="center">
+	<img src="/img/Previa.gif" alt="Prévia da solução">
+	<p align="center"><strong>Prévia da solução</strong></p>
+</p>
+
+### Contribuições pessoais
+
+Para a construção do projeto, minha contribuição foi focada na construção do módulo de envio de emails, para que pudesse ser facilmente utilizado pelo restante da equipe, além de auxiliar na definição dos indicadores de negócios que seriam criados.
+
+### Aprendizados Efetivos HS
+
+Programação de scripts em python: Sei fazer com ajuda.  
+Controle de versão com git e Github: Sei fazer com ajuda.
