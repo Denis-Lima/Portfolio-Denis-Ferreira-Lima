@@ -91,8 +91,8 @@ de dados relacional independente, por conta de sua leveza e velocidade, já que 
 
 <br/>
 <p align="center">
-	<img src="/img/Previa.gif" alt="Prévia da solução">
-	<p align="center"><strong>Prévia da solução</strong></p>
+	<img src="/img/Arquitetura de aplicação2.png" alt="Arquitetura da aplicação">
+	<p align="center"><strong>Arquitetura da aplicação</strong></p>
 </p>
 
 ### Contribuições pessoais
