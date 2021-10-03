@@ -1,6 +1,21 @@
-# Portfolio-Denis-Ferreira-Lima
+# Sumário
 
-## Projeto 1: 2019-2
+* [Sobre o autor](#introdução)
+* [Primeiro Semestre - Lumen](#em-2019-2)
+* [Segundo Semestre - AlgoPositivo](#em-2020-1)
+* [Meus Principais Conhecimentos](#meus-principais-conhecimentos)
+* [Contatos](#contatos)
+
+# Denis Ferreira Lima
+
+## Introdução  
+
+<div style="display: flex; margin-bottom: 50px"> 
+<img src="/img/me.jpg" alt="Foto de perfil" width=150 height=150 />
+<span style="padding-left: 20px;">Estudante de Análise e Desenvolvimento de Sistemas na FATEC Jessen Vidal, atualmente cursando o 5º semestre, estagiário de desenvolvimento de scripts para automação RPA tanto desktop quanto web. Curto bastante a área de desenvolvimento web, com foco principal em ReactJS, VueJS, NodeJS, tanto em Javascript quanto em Typescript, porém sempre buscando novos aprendizados! </span>
+</div>
+
+### Em 2019-2
 ![Logo do projeto](/img/capa.png)
 
 ### Parceiro Acadêmico
@@ -17,10 +32,10 @@ O principal diferencial do produto é a facilidade de manuseio com uma interface
 A aplicação foi desenvolvida com a proposta de criar uma automação residencial, controlando uma luz LED RGB a partir de qualquer ponto da sua casa, utilizando uma comunicação Bluetooth, além de ter a opção de controlar um cooler como adicional.  
 Também foi adicionado ao produto uma opção de realizar um feedback através de avaliação por estrelas, numeradas de 1 (não gostei) à 5 (adorei), para que assim possamos verificar possíveis melhorias futuras.
 
-### Link do git
-#### [Projeto Lumen](https://github.com/Denis-Lima/Lumen)
+### Link do Github
+<a href="https://github.com/Denis-Lima/Lumen" target="_blank"><img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" alt="Logo do Github" width="40" style="margin: 0px 15px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>Lumen</span></a>
 
-### Tecnologias adotadas na solução
+#### Tecnologias adotadas na solução
 
 As tecnologias adotadas para a solução foram as seguintes:  
 * <img src="https://appinventor.mit.edu/images/logo.png" alt="Logo do MIT AppInventor" width="200" /> [MIT App Inventor](https://appinventor.mit.edu/), uma ferramenta desenvolvida pela Google e atualmente mantida pelo MIT, para confecção do aplicativo, que possui uma interface amigável para pessoas com pouco conhecimento de programação. O App Inventor é uma ferramenta para construção de aplicativos por meio de blocos de programação, tanto na parte lógica quanto na parte visual.  
@@ -41,27 +56,34 @@ As tecnologias adotadas para a solução foram as seguintes:
 </p>
 
 
-### Contribuições pessoais
+#### Contribuições pessoais
 
 Para a construção do projeto, deixei minhas contribuições tanto no software quanto no hardware.  
 Foi pensado nessa comunicação Bluetooth, o uso de envio de dados simples, como uma string "B", para informar que a cor azul (Blue) foi acionada (ligada ou desligada), uma string "R" para o vermelho (Red) e assim por diante.  
 Realizei a integração do aplicativo com o hardware, para criar uma comunicação entre os mesmos via Bluetooth, utilizando os recursos de Bluetooth que o próprio App Inventor oferece, e os recursos de Bluetooth que o Arduino oferece.  
 Também contribui com a montagem física do projeto, onde realizei o processo de montagem do LED na placa do Arduino e no módulo Bluetooth, utilizando corretamente os devidos resistores.
 
-### Aprendizados Efetivos HS
+#### Hard Skills
 
-Integração de módulo Bluetooth com software: Sei fazer com ajuda.  
-Programação em microinformática: Sei fazer com autonomia.  
-Construção de aplicativo usando App Inventor: Sei fazer com autonomia.  
-Contrução de circuitos com arduino: Sei fazer com ajuda.  
-Controle de versão com Git e Github: Sei fazer com ajuda.  
-Integrações com Firebase: Sei fazer com ajuda  
-Documentação do projeto: Sei fazer com ajuda  
-Desenvolvimento por programação em blocos: Sei fazer com autonomia
+* Integração de módulo Bluetooth com software: Sei fazer com ajuda.  
+* Programação em microinformática: Sei fazer com autonomia.  
+* Construção de aplicativo usando App Inventor: Sei fazer com autonomia.  
+* Contrução de circuitos com arduino: Sei fazer com ajuda.  
+* Controle de versão com Git e Github: Sei fazer com ajuda.  
+* Integrações com Firebase: Sei fazer com ajuda  
+* Documentação do projeto: Sei fazer com ajuda  
+* Desenvolvimento por programação em blocos: Sei fazer com autonomia
 
+#### Soft Skills  
+
+* Empatia - Para entender o problema que o cliente queria que fosse resolvido, necessário durante toda a construção do projeto.  
+* Trabalho em equipe - Fundamental para que o projeto chegue até o cliente dentro do prazo e funcionando.  
+* Perseverança - Por mais que a equipe havia tido pouco contato com o mundo da programação e tudo parecia difícil, nunca desistir foi essencial para o sucesso da equipe.  
+* Gerenciamento de tempo - Todos os membros tiveram que aprender a gerenciar melhor o tempo próprio para não deixar a equipe na mão.  
+* Autodidatismo - Fundamental para a nossa área, buscando aprender novas ferramentas e linguagens afim de solucionar o problema da melhor forma.
 ##
 
-## Projeto 2: 2020-1
+### Em 2020-1
 
 ### Parceiro Acadêmico
 
@@ -78,9 +100,10 @@ Mais do que auxiliar as empresas na concessão de crédito, o SPC Brasil apoia o
 Com a mudança do modelo de operação do Cadastro Positivo, surgiu a necessidade de realizar uma gestão da informação mais eficaz para garantir a qualidade, uso adequado e gerar valor através dos dados.  
 A partir desta necessidade, surgiu este projeto, denominado AlgoPositivo (Algoritmo Positivo) que tem o objetivo de analisar os dados pagamentos dos clientes de forma anônima, respeitando a LGPD. A partir destes dados, o programa irá gerar informações e indicadores de negócios, que avaliará os clientes com base nesse perfil de pagamentos traçado. Os indicadores criados poderão ser utilizados para auxiliar a tomada de decisões de oferecer ou não produtos e serviços para determinado público, além de ajudar a analisar a criação de novos produtos com base na região dos clientes.
 
-#### <a href="https://github.com/Denis-Lima/PI_ADS_2Sem" target="_blank"><img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" alt="Logo do Python" width="40" style="margin: 0px 15px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>AlgoPositivo</span></a>
+#### Link do Github
+<a href="https://github.com/Denis-Lima/PI_ADS_2Sem" target="_blank"><img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" alt="Logo do Github" width="40" style="margin: 0px 15px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>AlgoPositivo</span></a>
 
-### Tecnologias adotadas na solução
+#### Tecnologias adotadas na solução
 
 As tecnologias adotadas para a solução foram as seguintes:  
 * <img src="https://www.python.org/static/img/python-logo.png" alt="Logo do Python" width="200" /> [Python](https://www.python.org/), uma linguagem de programação simples, intuitiva e de fácil aprendizado, escolhida pela equipe para que o foco da solução seja a geração dos indicadores de negócios.  
@@ -95,11 +118,29 @@ de dados relacional independente, por conta de sua leveza e velocidade, já que 
 	<p align="center"><strong>Arquitetura da aplicação</strong></p>
 </p>
 
-### Contribuições pessoais
+#### Contribuições pessoais
 
 Para a construção do projeto, minha contribuição foi focada na construção do módulo de envio de emails, para que pudesse ser facilmente utilizado pelo restante da equipe, além de auxiliar na definição dos indicadores de negócios que seriam criados.
 
-### Aprendizados Efetivos HS
+#### Hard Skills
 
-Programação de scripts em python: Sei fazer com ajuda.  
-Controle de versão com git e Github: Sei fazer com ajuda.
+* Programação de scripts em python: Sei fazer com ajuda.  
+* Controle de versão com git e Github: Sei fazer com ajuda.
+* Entendimento do protocolo de envio de e-mails: Sei fazer com autonomia.  
+* Análise de dados: Sei fazer com ajuda.  
+
+#### Soft Skills  
+
+* Empatia - Para entender a necessidade do cliente e construir uma aplicação que possa ajudá-lo e sanar essa necessidade.  
+* Trabalho em equipe - Fundamental para que o projeto chegue até o cliente dentro do prazo e funcionando.  
+* Perseverança - Na época foi um projeto difícil de ser desenvolvido.  
+* Gerenciamento de tempo - Do início ao fim do projeto, afinal, analisar dados e transformar em informação leva tempo que não pode ser desperdiçado.  
+* Autodidatismo - Buscando conhecimento sobre o cadastro positivo para conseguir gerar os indicadores de negócios, além da praticidade com o envio de e-mail.
+
+## Meus Principais Conhecimentos
+
+Minhas tecnologias e frameworks com maior conhecimento são na área de desenvolvimento web, onde se destacam o Javascript, sendo toda a parte de backend aliado ao NodeJS com Express. Já na parte de banco de dados, a utilização do MySql e do PostgreSQL. Para o frontend, segue a utilização de frameworks Javascript, como ReactJS e VueJS. Também possuo conhecimento de scripts com Python.
+
+## Contatos
+* [GIT](https://github.com/Denis-Lima)
+* [LinkedIn](https://www.linkedin.com/in/felelima/)
