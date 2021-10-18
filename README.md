@@ -3,6 +3,7 @@
 * [Sobre o autor](#introdução)
 * [Primeiro Semestre - Lumen](#em-2019-2)
 * [Segundo Semestre - AlgoPositivo](#em-2020-1)
+* [Terceiro Semestre - ShapeTP](#em-2020-2)
 * [Meus Principais Conhecimentos](#meus-principais-conhecimentos)
 * [Contatos](#contatos)
 
@@ -136,6 +137,71 @@ Para a construção do projeto, minha contribuição foi focada na construção 
 * Gerenciamento de tempo - Do início ao fim do projeto, afinal, analisar dados e transformar em informação leva tempo que não pode ser desperdiçado.  
 * Autodidatismo - Buscando conhecimento sobre o cadastro positivo para conseguir gerar os indicadores de negócios, além da praticidade com o envio de e-mail.
 
+##
+
+### Em 2020-2
+
+### Parceiro Acadêmico
+
+A [Visiona Tecnologia Espacial](https://www.visionaespacial.com.br/quem-somos) é a empresa brasileira integradora de sistemas espaciais. Resultante de uma iniciativa única do Governo brasileiro de estimular a criação de uma empresa integradora na indústria espacial, a Visiona é uma joint-venture entre a Telebras, empresa de economia mista do setor de telecomunicações, e a Embraer, empresa privada líder nos setores aeroespacial e de defesa.  
+
+<p align="center">
+	<img src="/img/3sem/post2shape.gif" alt="Prévia da solução Postgresql para Shapefile">
+	<p align="center"><strong>Prévia da solução Postgresql para Shapefile</strong></p>
+</p>
+<hr/>
+<p align="center">
+	<img src="/img/3sem/shape2post.gif" alt="Prévia da solução Shapefile para Postgresql">
+	<p align="center"><strong>Prévia da solução Shapefile para Postgresql</strong></p>
+</p>
+
+### Visão do Projeto
+
+Buscando cortes de custos e soluções open source, a empresa propôs o desenvolvimento de uma aplicação web local "mini-ETL" (Extract, Transform, Load), que converta arquivos em formato Shapefile para uma tabela existente do banco de dados PostgreSQL/PostGIS e que faça também o caminho inverso, ou seja buscar no banco de dados e devolver ao usuário um arquivo Shapefile. Atualmente, é utilizado uma aplicação paga para tal operação, portanto a necessidade de reduzir custos com um "mini-ETL" open source, que seja pensado para as necessidades especificas desta empresa, como realizar operações no banco de dados com dados providos de um arquivo Shapefile, ou para fácil manuseio dos dados por meio da transformação do mesmo em Shapefile.
+
+#### Link do Github
+<a href="https://github.com/Denis-Lima/ShapeTP" target="_blank"><img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" alt="Logo do Github" width="40" style="margin: 0px 15px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>ShapeTP</span></a>
+
+#### Tecnologias adotadas na solução
+
+As tecnologias adotadas para a solução foram as seguintes:  
+* <img src="https://s2.glbimg.com/5Iz4ZzSACXeBMQACRQmPliuTERw=/696x390/top/smart/s2.glbimg.com/vME2Bq4OSpm6f6IE16BhcVLR98U=/695x0/s.glbimg.com/po/tt2/f/original/2014/11/14/java-logo.jpg" alt="Logo do Java" width="200" /> [Java](https://www.java.com/pt-BR/), uma linguagem de programação orientada a objetos, poderosa e confiável, escolhida pela equipe para que o foco da solução seja na qualidade do resultado final, pela integração simples usando a extensão PostGIS provida pelo PostgreSQL.  
+
+* <img src="https://repository-images.githubusercontent.com/184428875/67e25300-6c06-11e9-9570-44fa547e425a" alt="Logo do PostgreSQL e PostGIS" width="200" /> [PostgreSQL](https://www.postgresql.org/) um banco
+de dados relacional open source poderoso, robusto e perfomático, super simples de utilizar e com muitas ferramentas e extensões poderosas. Aliado ao PostgreSQL, temos também a extensão [PostGIS](https://postgis.net/), utilizada para manipulação e armazenamento de dados geoespaciais.  
+* 
+<p align="left">
+	<img src="https://image.flaticon.com/icons/png/512/29/29540.png" alt="Logo do JSP" width="200" height="150" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLyS4H0iLtlxoej41uIdXkQ6e563aIIxucFZQqpa5uumVUOOsp-bZexe7t_g0tMpD00gw&usqp=CAU" alt="Logo do JSP" width="300" height="150" />
+ Java Server Pages, em conjunto com HTML5, CSS3 e JavaScript, para a construção da parte WEB da solução, visando a facilidade no manuseio da ferramenta ETL e disponibilidade para toda a equipe.   
+</p>
+
+<br/>
+<p align="center">
+	<img src="/img/3sem/Arquitetura de aplicação.png" alt="Arquitetura da aplicação">
+	<p align="center"><strong>Arquitetura da aplicação</strong></p>
+</p>
+
+#### Contribuições pessoais
+
+Para a construção do projeto, minha contribuição foi focada na construção da parte WEB do projeto, utilizando o JSP. Toda a construção do HTML da página, CSS e Javascript foram meu foco para ajudar a equipe a entregar com sucesso o projeto proposto.
+
+#### Hard Skills
+
+* Programação em Java: Sei fazer com ajuda.  
+* Controle de versão com git e Github: Sei fazer com autonomia.  
+* Criação de páginas WEB com JSP: Sei fazer com autonomia.  
+* Utilizar tecnologias WEB (HTML, CSS e JavaScript): Sei fazer com autonomia.  
+* Utilizar banco de dados PostgreSQL: Sei fazer com ajuda.  
+* Utilizar extensão PostGIS: Sei fazer com ajuda.  
+* Construção de mini-ETL: Sei fazer com ajuda.
+
+#### Soft Skills  
+
+* Empatia - Para entender a necessidade do cliente e construir uma aplicação que possa ajudá-lo a resolver o problema.  
+* Trabalho em equipe - Para divisão de tarefas para realizar as entregas no prazo.  
+* Gerenciamento de tempo - Do início ao fim do projeto, afinal, analisar dados e transformar em informação leva tempo que não pode ser desperdiçado.  
+* Autodidatismo - Buscando conhecimento essa nova área de processamento de dados geoespaciais, além de conhecer a extensão PostGIS para a manipulação dos mesmos.
 ## Meus Principais Conhecimentos
 
 Minhas tecnologias e frameworks com maior conhecimento são na área de desenvolvimento web, onde se destacam o Javascript, sendo toda a parte de backend aliado ao NodeJS com Express. Já na parte de banco de dados, a utilização do MySql e do PostgreSQL. Para o frontend, segue a utilização de frameworks Javascript, como ReactJS e VueJS. Também possuo conhecimento de scripts com Python.
