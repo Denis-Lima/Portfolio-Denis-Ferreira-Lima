@@ -290,11 +290,11 @@ Com 25 anos de experiência em projetos globais de TI e mais de 400 colaboradore
 A GSW tem maturidade para atender praticamente todas as demandas de seus clientes, desde desenvolvimento de software, implantação de ERP e sistemas satélites, até alocação de profissionais técnicos e funcionais.
 
 <p align="center">
-	<img src="/img/previa.gif" alt="Prévia da solução web">
+	<img src="/img/5sem/previa.gif" alt="Prévia da solução web">
 	<p align="center"><strong>Prévia da solução web</strong></p>
 </p>
 <p align="center">
-	<img src="/img/previa-m.gif" alt="Prévia da solução mobile">
+	<img src="/img/5sem/previa-m.gif" alt="Prévia da solução mobile">
 	<p align="center"><strong>Prévia da solução mobile</strong></p>
 </p>
 
