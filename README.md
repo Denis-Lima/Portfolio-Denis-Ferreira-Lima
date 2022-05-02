@@ -15,7 +15,7 @@
 ## Introdução  
 <div>
 	<img src="/img/me.jpg" alt="Foto de perfil" width=150 height=150 />
-	<p>Estudante de Análise e Desenvolvimento de Sistemas na FATEC Jessen Vidal, atualmente cursando o 5º semestre, estagiário de desenvolvimento de scripts para automação RPA tanto desktop quanto web. Curto bastante a área de desenvolvimento web, com foco principal em ReactJS, VueJS, NodeJS, tanto em Javascript quanto em Typescript, porém sempre buscando novos aprendizados! </p>
+	<p>Estudante de Análise e Desenvolvimento de Sistemas na FATEC Jessen Vidal, atualmente cursando o 6º semestre, estagiário de desenvolvimento de scripts para automação RPA tanto desktop quanto web. Curto bastante a área de desenvolvimento web, com foco principal em ReactJS, VueJS, NodeJS, tanto em Javascript quanto em Typescript, porém sempre buscando novos aprendizados! </p>
 </div>
 
 ### Em 2019-2
