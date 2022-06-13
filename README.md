@@ -353,14 +353,14 @@ Para a construção do projeto, minha contribuição foi bem distribuida entre f
 
 O [Grupo UOL](https://www.uol.com.br/) é uma empresa brasileira de conteúdo, tecnologia, serviços e meios de pagamentos. Ela está no mercado desde 1996 e sua homepage recebe mais de 114 milhões de visitantes únicos por mês.
 
-<p align="center">
-	<img src="/img/6sem/metricas.jpg" alt="Prévia de algumas métricas coletadas e monitoradas">
-	<p align="center"><strong>Prévia de algumas métricas coletadas e monitoradas</strong></p>
-</p>
-
 ### Visão do Projeto
 
-O tema do projeto desse primeiro semestre de 2022 foi um sistema de previsão de quebra de sistema web. O desafio consiste em criar uma inteligência artificial capaz de prever em quanto tempo um sistema web muito provavelmente irá ficar indisponível dado as condições atuais do sistema.
+O tema do projeto desse primeiro semestre de 2022 foi um sistema de previsão de quebra de sistema web. O desafio consiste em criar uma inteligência artificial capaz de prever em quanto tempo um sistema web muito provavelmente irá ficar indisponível dada as condições atuais do sistema.  
+O gráfico a seguir mostra uma comparação entre a saúde real do sistema, e a saúde prevista pelo modelo de inteligência artificial.
+<p align="center">
+	<img src="/img/6sem/previsao.png" alt="Gráfico de comparação da saúde do sistema prevista pela IA vs a real">
+	<p align="center"><strong>Gráfico de comparação da saúde do sistema prevista pela IA vs a real</strong></p>
+</p>
 
 #### Link do Github
 <div><a href="https://github.com/BureauTech/Artefatos" target="_blank" style="display: block;"><img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" alt="Logo do Github" width="40" style="margin: 0px 15px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>Repositório principal</span></a></div>
