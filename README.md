@@ -362,7 +362,8 @@ O gráfico a seguir mostra uma comparação entre a saúde real do sistema, e a 
 	<p align="center"><strong>Gráfico de comparação da saúde do sistema prevista pela IA vs a real</strong></p>
 </p>
   
-Para a geração dos dados com a finalidade de treinar o modelo de inteligência artificial, foi utilizado o Locust para gerar um stress no sistema alvo, onde uma máquina rodaria o sistema em questão, e outras máquinas realizariam o stress, atacando a máquina principal. A aplicação alvo é um sistema web de CRUD para usuários, onde temos VueJS no client e uma API em Java com SpringBoot no server.
+Para a geração dos dados com a finalidade de treinar o modelo de inteligência artificial, foi utilizado o Locust para gerar um stress no sistema alvo, onde uma máquina rodaria o sistema em questão, e outras máquinas realizariam o stress, atacando a máquina principal. A aplicação alvo é um sistema web de CRUD para usuários, onde temos VueJS no client e uma API em Java com SpringBoot no server.  
+O modelo de inteligência artificial utilizado foi uma rede neural com o algoritmo LSTM (Long Short-Time Memory), por conta da sua capacidade de previsão multi-feature ao longo de séries temporais e a capacidade de lembrar do passado (leva em consideração X passos ocorridos para prever o futuro).
 #### Link do Github
 <div><a href="https://github.com/BureauTech/Artefatos" target="_blank" style="display: block;"><img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" alt="Logo do Github" width="40" style="margin: 0px 15px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>Repositório principal</span></a></div>
 <div><a href="https://github.com/BureauTech/APIs-Docs" target="_blank" style="display: block;"><img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" alt="Logo do Github" width="40" style="margin: 0px 15px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>Documentação API-REST</span></a></div>
